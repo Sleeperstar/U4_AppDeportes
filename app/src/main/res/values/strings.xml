@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Sports</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Sports</string>
+    <string name="detail_fragment_label">Sport Info</string>
+
+    <string name="baseball">Béisbol</string>
+    <string name="badminton">Bádminton</string>
+    <string name="basketball">Baloncesto</string>
+    <string name="bowling">Boliche</string>
+    <string name="cycling">Ciclismo</string>
+    <string name="golf">Golf</string>
+    <string name="running">Correr</string>
+    <string name="soccer">Fútbol</string>
+    <string name="swimming">Natación</string>
+    <string name="table_tennis">Tenis de Mesa</string>
+    <string name="tennis">Tenis</string>
+    <string name="sports_list_subtitle">Lista de Deportes</string>
+    <string name="sport_detail_text_baseball">El béisbol es un deporte de equipo que se juega con una pelota y un bate. Es popular en América del Norte y Asia.</string>
+    <string name="sport_detail_text_badminton">El bádminton es un deporte de raqueta que se juega con un volante. Es un deporte olímpico desde 1992.</string>
+    <string name="sport_detail_text_basketball">El baloncesto es un deporte de equipo que se juega con una pelota en una cancha rectangular. Es muy popular en los Estados Unidos.</string>
+    <string name="sport_detail_text_bowling">El boliche es un deporte en el que los jugadores lanzan una bola para derribar los pines. No es un deporte olímpico.</string>
+    <string name="sport_detail_text_cycling">El ciclismo es un deporte que implica el uso de bicicletas. Es popular tanto como deporte recreativo y competitivo.</string>
+    <string name="sport_detail_text_golf">El golf es un deporte de precisión que se juega en un campo al aire libre. No es un deporte olímpico.</string>
+    <string name="sport_detail_text_running">Correr es una forma popular de ejercicio y también un deporte competitivo en eventos como los Juegos Olímpicos.</string>
+    <string name="sport_detail_text_soccer">El fútbol es el deporte más popular del mundo, jugado por dos equipos de once jugadores con una pelota esférica.</string>
+    <string name="sport_detail_text_swimming">La natación es un deporte acuático que incluye estilos como libre, mariposa y espalda. Es una disciplina olímpica.</string>
+    <string name="sport_detail_text_table_tennis">El tenis de mesa, también conocido como ping-pong, es un deporte de raqueta que se juega en una mesa con una pelota pequeña.</string>
+    <string name="sport_detail_text_tennis">El tenis es un deporte de raqueta que se juega individualmente o en parejas. Es muy popular en todo el mundo.</string>
+    <plurals name="player_count_caption">
+        <item quantity="one">1 Jugador</item>
+        <item quantity="other">%1$d Jugadores</item>
+    </plurals>
+    <string name="olympic_caption">Olimpico</string>
+
+    <string name="back_button">Back</string>
+</resources>
